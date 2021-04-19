@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "commonjs",
+		"lib": ["es2017", "ES5"],
+		"allowJs": true,
+		"outDir": "build",
+		"baseUrl": "src",
+		"rootDir": "src",
+		"strict": true,
+		"noImplicitAny": true,
+		"strictPropertyInitialization": false,
+		"paths": {
+			"@config/*": ["src/configs/*"],
+			"@modules/*": ["src/modules/*"],
+			"@shared/*": ["src/shared/*"],
+			"@interfaces/*": ["src/interfaces/*"],
+			"@utils/*": ["src/utils/*"],
+			"@enums/*": ["src/enums/*"],
+			"@functions/*": ["src/functions/*"]
+		},
+		"typeRoots": ["@types", "./node_modules/@types"],
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+	}
+}

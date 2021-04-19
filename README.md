@@ -33,6 +33,10 @@
 </a>
 </div>
 
+<h2 style="font-weight:300">📄 Changes:</h2>
+
+- Use **Husky**, **Lint Staged** and **Prettier** to format code when commit anything;
+
 <div align="right" style="margin-top: 50px">
 <h3 style="font-weight: 300">
 🧑🏻‍💻 About Me
