@@ -31,8 +31,7 @@
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "lint-staged",
-			"pre-push": "eslint . --ext .ts"
+			"pre-commit": "lint-staged"
 		}
 	}
 }
