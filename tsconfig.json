@@ -10,15 +10,6 @@
 		"strict": true,
 		"noImplicitAny": true,
 		"strictPropertyInitialization": false,
-		"paths": {
-			"@config/*": ["src/configs/*"],
-			"@modules/*": ["src/modules/*"],
-			"@shared/*": ["src/shared/*"],
-			"@interfaces/*": ["src/interfaces/*"],
-			"@utils/*": ["src/utils/*"],
-			"@enums/*": ["src/enums/*"],
-			"@functions/*": ["src/functions/*"]
-		},
 		"typeRoots": ["@types", "./node_modules/@types"],
 		"esModuleInterop": true,
 		"experimentalDecorators": true,
