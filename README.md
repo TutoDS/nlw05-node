@@ -20,16 +20,8 @@
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
 <h5 style="text-transform: uppercase;">Have interest in:</h5>
-<a href="https://github.com/TutoDS/nlw05-flutter">
-	<img src="https://img.shields.io/badge/Flutter%20NLW5%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2302569B" alt="Flutter"/>
-</a>
-
 <a href="https://github.com/TutoDS/nlw05-react">
 	<img src="https://img.shields.io/badge/React%20NLW5%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-</a>
-
-<a href="https://github.com/TutoDS/nlw05-react-native">
-	<img src="https://img.shields.io/badge/React%20Native%20NLW5%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
 </a>
 </div>
 
